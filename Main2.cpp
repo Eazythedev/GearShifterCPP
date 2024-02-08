@@ -40,6 +40,9 @@ int main() {
             case 'R':
                 cout << "Gear: R\n";
                 break;
+            case 'L':
+                cout << "Gear: LOW\n";
+                break;
             case 'Q':
                 cout << "Car off.\n";
                 return 0; // Exit the program
